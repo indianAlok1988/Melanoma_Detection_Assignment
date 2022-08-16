@@ -27,7 +27,7 @@ Steps Involved:
  
 
 Artifacts:
-1. Linear_Regression_Model_Bike_Sharing.ipynb
+1. AlokKumar_NN.ipynb
 2. README.md
 
 
